@@ -63,7 +63,7 @@ new Vue({
 
   template: `
   <div>
-    <!-- top menu example hhhhh -->
+    <!-- top menu example  -->
     <!-- <div class="main-header" style="">
       <h3 style="margin:0; cursor:pointer;" v-on:click="goto('Example layout 1')"><i>Ann Täpp</i></h3>
       <nav class="main-header__nav">
